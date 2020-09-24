@@ -1,0 +1,1 @@
+F:\\RJGC\\test\\orig.txt跟F:\\RJGC\\test\\orig.txt的文章相似度为   100.0%

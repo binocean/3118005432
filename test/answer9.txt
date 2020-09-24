@@ -1,0 +1,1 @@
+F:\\RJGC\\test\\orig_0.8_dis_1.txt跟F:\\RJGC\\test\\orig_0.8_dis_15.txt的文章相似度为   60.3%
